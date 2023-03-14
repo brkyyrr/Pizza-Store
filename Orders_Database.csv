@@ -3,3 +3,23 @@ Date;Name Surname;Credit Card Number;Owner of the Credit Card;Card's CVV Code;In
 2023-03-11 00:39:04.545712;Sonay Ilýca;987654321;Selin Olgun;987;['Thin Dough', 'Blue Cheese Sauce', 'Mozzarella', 'Emmental', 'Capia Pepper', 'Sausage', 'Mushrooms', 'Corn', 'Onion'];85
 2023-03-11 00:40:05.322442;Deneme Kullanýcý;546372869;Deneme Kullanýcý;759;['Thick Dough', 'Tomato Sauce', 'Pesto Sauce', 'Edam', 'Tomato', 'Olive', 'Bacon', 'Ham', 'Broccoli'];81
 2023-03-11 00:43:33.417950;Rastgele Ýnsan;275839374;Rastgele Ýnsan;485;['Medium Dough', 'Pesto Sauce', 'Edam', 'Chedar', 'Tomato', 'Sausage', 'Corn', 'Onion', 'Cauliflower'];82
+2023-03-14 22:09:23.217013;sad;a213;asda;222;['Thick Dough', 'Pesto Sauce'];31
+2023-03-14 22:16:25.341536;asd;as;ss;ss;['Medium Dough', 'Blue Cheese Sauce', 'Pesto Sauce', 'Guacamole Sauce'];40
+2023-03-14 22:17:56.759683;sd;asd;as;d;['Medium Dough'];20
+2023-03-14 22:19:15.477465;sdad;asd;ad;asd;['Medium Dough', 'Blue Cheese Sauce', 'Pesto Sauce', 'Guacamole Sauce'];40
+2023-03-14 22:21:14.314261;s;s;s;s;['Thick Dough', 'Tomato Sauce'];30
+2023-03-14 22:31:00.137525;ws;s;s;s;['Thin Dough', 'Tomato Sauce', 'Mozzarella', 'Capia Pepper'];39
+2023-03-14 22:31:25.173194;Berkay;Ysdas;343;ssss;['Thin Dough', 'Tomato Sauce', 'Edam', 'Tomato'];38
+2023-03-14 22:33:31.385543;;;;;['Medium Dough', 'Blue Cheese Sauce'];27
+2023-03-14 22:35:24.293546;;;;;['Medium Dough', 'Tomato Sauce', 'Mozzarella'];36
+2023-03-14 22:38:27.972109;;;;;['Thick Dough', 'Blue Cheese Sauce', 'Mozzarella'];43
+2023-03-14 22:39:39.735568;;;;;['Thick Dough', 'Tomato Sauce', 'Guacamole Sauce', 'Edam'];49
+2023-03-14 22:43:26.317672;;asdsad;asdsad;adsada;['Medium Dough', 'Blue Cheese Sauce'];27
+2023-03-14 22:48:34.674014;;;;;['Thick Dough', 'Guacamole Sauce'];32
+2023-03-14 22:50:00.913682;;;;;['Thick Dough', 'Blue Cheese Sauce'];32
+2023-03-14 22:57:05.039970;asdsd;;;;['Thick Dough', 'Blue Cheese Sauce', 'Chedar'];42
+2023-03-14 22:57:44.794173;;asdsad;asdasd;asdasdas;['Medium Dough', 'Blue Cheese Sauce'];27
+2023-03-14 22:57:57.256116;;s;;;['Medium Dough', 'Blue Cheese Sauce'];27
+2023-03-14 22:59:11.219878;sadasd;;asdas;sadsad;['Medium Dough', 'Blue Cheese Sauce'];27
+2023-03-14 22:59:45.401610;;s;s;s;['Medium Dough', 'Tomato Sauce'];25
+2023-03-14 23:00:20.627723;s;s;s;s;['Medium Dough', 'Blue Cheese Sauce'];27
